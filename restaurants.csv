@@ -1,0 +1,26 @@
+rest_id,category,name,city,province,region
+0,Pizzeria,Pizza Popolo,Foggia,CB,Molise
+1,Pizzeria,Pizzeria Mondo,Udine,LE,Puglia
+2,Pizzeria,Mammamia!,Calabria,CL,Sicilia
+3,Pizzeria,YahooPizzaHut,Valentia,BZ,Trentino-Alto Adige
+4,Pizzeria,Domino's,Pordenone,BZ,Trentino-Alto Adige
+5,Indian,CurryNow!,Forlì-Cesena,BS,Lombardia
+6,Indian,IndianVibes,Lecce,CO,Lombardia
+7,Indian,Ganesh,Napoli,FM,Marche
+8,Indian,NewDeli,Udine,GE,Liguria
+9,Indian,TorinoIndianFood,Piceno,FM,Marche
+10,Italian,Il Ristorantino,Siracusa,SP,Liguria
+11,Italian,Da Agostino,Campidano,CN,Piemonte
+12,Italian,Da Antonio,Messina,CO,Lombardia
+13,Italian,Osteria 24,Lodi,FI,Toscana
+14,Italian,Ristorante Fra magnaccia,Rieti,CA,Sardegna
+15,Chinese/Japanese,Sushi Passion,Taranto,BS,Lombardia
+16,Chinese/Japanese,Ping's Wok,Palermo,MC,Marche
+17,Chinese/Japanese,Tuna and Rice,Gorizia,LT,Lazio
+18,Chinese/Japanese,Wok passion,Treviso,EN,Sicilia
+19,Chinese/Japanese,Thai Oriental,Bologna,GR,Toscana
+20,Other,Fusion Food,Vercelli,VA,Lombardia
+21,Other,I peperoncini,Messina,MI,Lombardia
+22,Other,Calabria mia,Cuneo,MI,Lombardia
+23,Other,Osteria 1000,Prato,UD,Friuli-Venezia Giulia
+24,Other,Da Antonio,Lecce,AQ,Abruzzo
